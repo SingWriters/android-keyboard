@@ -16,4 +16,4 @@
 #   public *;
 #}
 
--keep class rkr.simplekeyboard.inputmethod.R
+-keep class org.singwriters.inputmethod.R

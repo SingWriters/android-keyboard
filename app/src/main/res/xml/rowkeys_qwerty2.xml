@@ -23,7 +23,7 @@
 >
     <switch>
         <case latin:showExtraChars="true">
-            <Key latin:keySpec="a"
+            <Key latin:keySpec=":O"
                 latin:keyHintLabel="\@"
                 latin:additionalMoreKeys="\\@"
                 latin:moreKeys="!text/morekeys_a" />

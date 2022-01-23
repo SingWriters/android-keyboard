@@ -15,7 +15,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="rkr.simplekeyboard.inputmethod">
+    package="org.singwriters.inputmethod">
 
     <uses-permission android:name="android.permission.VIBRATE" />
 
